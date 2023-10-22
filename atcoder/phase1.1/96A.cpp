@@ -3,16 +3,13 @@
 using namespace std;
 int main() {
     Martina
-        Martina
-        int a,b,x;
-        cin>>a>>b>>x;
-
-        if(a<=x&&x<=a+b) {
-            cout<<"YES";
-        }
-        else {
-            cout<<"NO";
-        }
-
-    return 0;
+    int a,b;
+    cin>>a>>b;
+    if(b>=a){
+        cout<<a;
     }
+    else if (a>b){
+        cout<<a-1;
+    }
+    return 0;
+}
