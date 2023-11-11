@@ -5,4 +5,4 @@ int main() {
     cin>>a>>b>>h;
     cout<<(a+b)*(h/2);
     return 0;
-    }
+}
