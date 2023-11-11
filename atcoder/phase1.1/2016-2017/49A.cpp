@@ -10,4 +10,4 @@ int main() {
         cout<<"consonant";
     }
     return 0;
-    }
+}
