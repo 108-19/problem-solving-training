@@ -9,4 +9,4 @@ int main() {
     }
         cout<<total;
     return 0;
-    }
+}
