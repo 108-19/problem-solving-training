@@ -6,4 +6,4 @@ int main() {
     char s=n[0];
     cout<<"A"<<s<<"C";
     return 0;
-    }
+}
