@@ -10,4 +10,4 @@ int main() {
         cout<<k*x+(n-k)*y;
     }
     return 0;
-    }
+}
