@@ -5,5 +5,5 @@ int main() {
     cin>>a>>b>>c>>d;
     int t=min(a,b)+min(c,d);
     cout<<t;
-    return 0;
-}
+        return 0;
+    }
