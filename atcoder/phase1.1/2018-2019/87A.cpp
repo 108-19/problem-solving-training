@@ -8,5 +8,5 @@ int main() {
     e=d*b;
     rem=c-e;
     cout<<rem;
-    return 0;
-}
+        return 0;
+    }
