@@ -7,5 +7,5 @@ int main() {
     char b=s2[1];
     char c=s3[2];
     cout<<a<<b<<c;
-    return 0;
-}
+        return 0;
+    }
