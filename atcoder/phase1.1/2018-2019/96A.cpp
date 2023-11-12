@@ -9,5 +9,5 @@ int main() {
     else if (a>b){
         cout<<a-1;
     }
-    return 0;
-}
+        return 0;
+    }
